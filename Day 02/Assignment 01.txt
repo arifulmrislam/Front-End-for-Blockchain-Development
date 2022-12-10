@@ -1,0 +1,40 @@
+1. How does the internet actuallu work?
+Ans: A lot of people think it's a cloud, something that's hanginh around in the sky. It's super complex, super difficult
+to understand, but actually, that's not it at all. The internet is pretty simple. All it is just a long piece of wire.
+And wire connects differents coputers to each other. So we might have one computer that's in Bangladesh and another one
+that's in USA, and they can talk to each other and transfer data through this giant wire. 
+
+2. What is server?
+Ans: Some of computers attached the Internet have a very special job. They have to be online 24 seven, ready to serve
+us all the data and files that we are requesting when we try to access a website. And these are called server. And they
+serve us all the data and files that we need to be able to access and interact with certain website. So these computer are 
+called servers and any computer that a user would use to access the Internet is called a client. 
+
+3. What is web-server and how is it work?
+Ans: Let's say that we are sitting at home on our computer and type in Google.com because we want to head over to the main Google home
+page. This time our browser will send that message to our ISP or Internet service provider. These are the people who we pay to be able 
+to access the Internet. And ISP will relay that message to something called a DNS server, which stands for a domain name system server. 
+DNS server will looked up database to find the ecact IP address of that website that we are trying to access. Every single computer that's
+connected to the Internets has an IP address. It's kind of like a postal code for our computer so that when people need to send and 
+receive files on the internet, each computer can be located and contacted using their unique IP address. And once the DNS server finds that IP 
+address, it will send it back to our browser through the ISP, over the INternet. 
+
+4. How to website design? 
+Ans: The most important thing to making a website loved by users is pretty much the design. There are four pillars of good web design, 
+i) Colour theory
+ii) User Interface Design
+iii) Typography and 
+iv) User Experience Design.  
+
+5. How many types of website?
+Ans: There are two types of website,
+i) Static website: A static website is one with stable content, where every user sees the exact same thing on each individual page. HTML, CSS, Javascript is used for developing the website.
+ii) Dynamic website:  On the other hand, a dynamic website is one where content is pulled on-the-fly, allowing its content to change with the user. such as PHP, Node.js, ASP.NET and many more 
+
+6. What is HTML?
+Ans: HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, 
+and links using HTML elements (the building blocks of a web page) such as tags and attributes. 
+The two main parts of an HTML document are the head and the body.
+
+7. What is an HTML Tag?
+Ans: An HTML tag is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document.
