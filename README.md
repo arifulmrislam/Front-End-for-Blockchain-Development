@@ -13,6 +13,7 @@ NonAcademy Community
 - Adding Image to Blog Page
 - Adding Header to Blog Page
 - Learning Anchor Tag
+
 🎯​ Advanced HTML
 - Div Tag
 - Div Elements
@@ -32,6 +33,7 @@ NonAcademy Community
 - Form Attributes
 - Media Tags
 - Favicon & Meta Tags
+
 🎯​ Introduction to CSS
 - CSS Introduction
 - Blog Page Structure
@@ -45,6 +47,7 @@ NonAcademy Community
 - Specificity Problem 01
 - Specificity Problem 02
 - Specificity Problem 03
+
 🎯​ Styling with CSS
 - Adding Color
 - CSS Units
@@ -58,6 +61,7 @@ NonAcademy Community
 - Position
 - Box
 - Min Max Width
+
 🎯​ Project
 🎯​ Flex
 - Flex Intro
@@ -67,6 +71,7 @@ NonAcademy Community
 - Flex Justify Content
 - Align Content
 - Converting Project code to Flex
+
 🎯​ Tailwind CSS
 - Intro to Tailwind CSS
 - Setting up the project
@@ -90,6 +95,7 @@ NonAcademy Community
 - Components
 - Utility Classes
 - Understanding Layer Directive
+
 🎯​ Introduction to JavaScript
 - Intro to JS
 - JS Alerts
@@ -104,56 +110,60 @@ NonAcademy Community
 - Functions in JS
 - Functions - Parameters & Arguments
 - Functions - Outputs & Return
+
 🎯​ Intermediate JavaScript
--Random number generation in JS
--Control Statements using If-else conditionals & Logic
--Comparators & Equality
--Combining Comparators
--Coding Challenge
--Collections working with JS Arrays
--Adding elements & Intermediate Array Techniques
--Coding Challenge
--Control Statements while loops
--Control statements for loops
--Coding Challenge
+- Random number generation in JS
+- Control Statements using If-else conditionals & Logic
+- Comparators & Equality
+- Combining Comparators
+- Coding Challenge
+- Collections working with JS Arrays
+- Adding elements & Intermediate Array Techniques
+- Coding Challenge
+- Control Statements while loops
+- Control statements for loops
+- Coding Challenge
+
 🎯​ The Document Object Model(DOM)
--Adding JS to Websites
--Intro to DOM
--Selecting HTML elements with JS
--Manipulating & Changing Styles of HTML elements with JS
--Text manipulation & content property
--Separation of concerns structure vs style vs behavior
+- Adding JS to Websites
+- Intro to DOM
+- Selecting HTML elements with JS
+- Manipulating & Changing Styles of HTML elements with JS
+- Text manipulation & content property
+- Separation of concerns structure vs style vs behavior
+
 🎯​ React JS Basic to Advanced
--What is React
--Intro to JSX & Babel
--JS Expressions in JSX & ES6 Template Literals
--JSX Attributes & styling React Elements
--Inline Styling
--Styling Practice
--React Components
--JS ES6 - Import, Export & Modules
--Project
--React Props
--React DevTools
--Mapping Data to Components
--JS ES6 Map Filter Reduce
--JS ES6 Arrow Functions
--Conditional Rendering with the Ternary Operator
--State in React-Declarative vs Imperative Programming
--React Hooks - useState
--useState Hook Practice
--JS ES6 Objects & Array Destructuring
--Coding Challenge
--Event Handling in React
--React Forms
--Class Components vs Functional Components
--Changing Complex State
--Practice
--JS ES6 Spread Operator
--Managing a Component Tree
--Practice
--Project
--React Dependencies & Styling the project
+- What is React
+- Intro to JSX & Babel
+- JS Expressions in JSX & ES6 Template Literals
+- JSX Attributes & styling React Elements
+- Inline Styling
+- Styling Practice
+- React Components
+- JS ES6 - Import, Export & Modules
+- Project
+- React Props
+- React DevTools
+- Mapping Data to Components
+- JS ES6 Map Filter Reduce
+- JS ES6 Arrow Functions
+- Conditional Rendering with the Ternary Operator
+- State in React-Declarative vs Imperative Programming
+- React Hooks - useState
+- useState Hook Practice
+- JS ES6 Objects & Array Destructuring
+- Coding Challenge
+- Event Handling in React
+- React Forms
+- Class Components vs Functional Components
+- Changing Complex State
+- Practice
+- JS ES6 Spread Operator
+- Managing a Component Tree
+- Practice
+- Project
+- React Dependencies & Styling the project
+
 🎯​ Fundamentals of Blockchain
 1. What is web3
 2. What is Blockchain
