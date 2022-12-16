@@ -1,7 +1,8 @@
-# Front-End-for-Blockchain-Development
+# Syllabus of Front-End-for-Blockchain-Development
 NonAcademy Community
+
 🎯​ Introduction to HTML
--Intro to HTML
+- (Intro to HTML)
 -Creating First HTML Page
 -HTML Page Structure
 -Title Tag
