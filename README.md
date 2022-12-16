@@ -2,10 +2,10 @@
 NonAcademy Community
 
 🎯​ Introduction to HTML
-- (Intro to HTML)
--Creating First HTML Page
--HTML Page Structure
--Title Tag
+- [Intro to HTML]
+- [Creating First HTML Page]
+- [HTML Page Structure]
+- [Title Tag]
 -Unordered List
 -Ordered List
 -Creating Blog Page
