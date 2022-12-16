@@ -2,108 +2,108 @@
 NonAcademy Community
 
 🎯​ Introduction to HTML
-- [Intro to HTML]
-- [Creating First HTML Page]
-- [HTML Page Structure]
-- [Title Tag]
--Unordered List
--Ordered List
--Creating Blog Page
--Adding Lists to Blog Page
--Adding Image to Blog Page
--Adding Header to Blog Page
--Learning Anchor Tag
+- Intro to HTML
+- Creating First HTML Page
+- HTML Page Structure
+- Title Tag
+- Unordered List
+- Ordered List
+- Creating Blog Page
+- Adding Lists to Blog Page
+- Adding Image to Blog Page
+- Adding Header to Blog Page
+- Learning Anchor Tag
 🎯​ Advanced HTML
--Div Tag
--Div Elements
--Semantic Tags
--Adding Internal Links to web page
--Block vs Inline Elements
--Text Formatting Tags
--Special Characters
--Symbol
--Adding Tables
--More Attributes & Tags Related to Table
--Creating a simple Form
--More Input Types
--Attributes of form elements
--Radio Button & Checkbox
--Select Textarea & Button
--Form Attributes
--Media Tags
--Favicon & Meta Tags
+- Div Tag
+- Div Elements
+- Semantic Tags
+- Adding Internal Links to web page
+- Block vs Inline Elements
+- Text Formatting Tags
+- Special Characters
+- Symbol
+- Adding Tables
+- More Attributes & Tags Related to Table
+- Creating a simple Form
+- More Input Types
+- Attributes of form elements
+- Radio Button & Checkbox
+- Select Textarea & Button
+- Form Attributes
+- Media Tags
+- Favicon & Meta Tags
 🎯​ Introduction to CSS
--CSS Introduction
--Blog Page Structure
--Adding Styles using CSS
--Adding Styles using External CSS
--Preference of Rules
--Chrome Dev Tools
--Class Selector
--ID Selector
--Specificity of Selectors
--Specificity Problem 01
--Specificity Problem 02
--Specificity Problem 03
+- CSS Introduction
+- Blog Page Structure
+- Adding Styles using CSS
+- Adding Styles using External CSS
+- Preference of Rules
+- Chrome Dev Tools
+- Class Selector
+- ID Selector
+- Specificity of Selectors
+- Specificity Problem 01
+- Specificity Problem 02
+- Specificity Problem 03
 🎯​ Styling with CSS
--Adding Color
--CSS Units
--How to add a Border to an Element
--Text Styling
--Adding Background to an Element
--Margins
--Padding
--Display Property
--Aside Selection
--Position
--Box
--Min Max Width
+- Adding Color
+- CSS Units
+- How to add a Border to an Element
+- Text Styling
+- Adding Background to an Element
+- Margins
+- Padding
+- Display Property
+- Aside Selection
+- Position
+- Box
+- Min Max Width
 🎯​ Project
 🎯​ Flex
--Flex Intro
--Flex Direction
--Flex Wrap
--Flex Grow & Flex Shrink
--Flex Justify Content
--Align Content
--Converting Project code to Flex
+- Flex Intro
+- Flex Direction
+- Flex Wrap
+- Flex Grow & Flex Shrink
+- Flex Justify Content
+- Align Content
+- Converting Project code to Flex
 🎯​ Tailwind CSS
--Intro to Tailwind CSS
--Setting up the project
--Adding HTML
--Using Container
--Setting width & Height
--Using Flexbox
--Using Layout Grids
--Using row layout
--Grid Flow
--Gap & Justifying Items
--Justify Individual Items
--Padding & Margin
--Styling Text
--Border Radius
--Styling Borders
--Shadows
--Breakpoints
--Pseudo Selectors
--Layer & Apply Directives
--Components
--Utility Classes
--Understanding Layer Directive
+- Intro to Tailwind CSS
+- Setting up the project
+- Adding HTML
+- Using Container
+- Setting width & Height
+- Using Flexbox
+- Using Layout Grids
+- Using row layout
+- Grid Flow
+- Gap & Justifying Items
+- Justify Individual Items
+- Padding & Margin
+- Styling Text
+- Border Radius
+- Styling Borders
+- Shadows
+- Breakpoints
+- Pseudo Selectors
+- Layer & Apply Directives
+- Components
+- Utility Classes
+- Understanding Layer Directive
 🎯​ Introduction to JavaScript
--Intro to JS
--JS Alerts
--Data Types
--JS Variables
--Naming & Naming Conventions for JS variables
--String in JS
--String Lengths & Retrieving the number of characters
--Slicing & Extracting parts of a string
--Basic Arithmetic & the Modulous operator
--Increment & Decrement Expressions
--Functions in JS
--Functions - Parameters & Arguments
--Functions - Outputs & Return
+- Intro to JS
+- JS Alerts
+- Data Types
+- JS Variables
+- Naming & Naming Conventions for JS variables
+- String in JS
+- String Lengths & Retrieving the number of characters
+- Slicing & Extracting parts of a string
+- Basic Arithmetic & the Modulous operator
+- Increment & Decrement Expressions
+- Functions in JS
+- Functions - Parameters & Arguments
+- Functions - Outputs & Return
 🎯​ Intermediate JavaScript
 -Random number generation in JS
 -Control Statements using If-else conditionals & Logic
